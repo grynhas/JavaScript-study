@@ -6,3 +6,6 @@ const nome = "patrick"
 
 console.log(idade);
 console.log(Idade);
+
+//Não fazer 
+// mes = "janeiro"
